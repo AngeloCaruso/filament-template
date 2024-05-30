@@ -1,0 +1,16 @@
+.fi-topbar nav{
+    background-color: #3f5398;
+}
+
+.fi-sidebar{
+    border-right: 1px solid #e5e5e5;
+}
+
+.fi-simple-main-ctn{
+    /* background-color: #3f5398 !important; */
+    background-image: url('/images/fonfo-gris.jpg') !important;
+}
+
+.fi-ta-header-heading, .fi-section-header-heading {
+    color: #3f5398 !important;
+}
